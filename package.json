@@ -1,0 +1,9 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "description": "Advanced React",
+  "main": "lib/server.js",
+  "repository": "https://github.com/DavidThorpe71/advanced-react-course",
+  "author": "David Thorpe",
+  "license": "MIT"
+}
